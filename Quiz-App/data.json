@@ -1,7 +1,8 @@
 [
     {
         "question" :"Question - What is the captial of Indian?",
-        "options" : ["Delhi","Dubai" ,"Chennai" ,"NZ"]
+        "options" : ["Delhi","Dubai" ,"Chennai" ,"NZ"],
+        "correctanswer":0
     },
     {
         "question" :"Question - What is the captial of Indian?",
