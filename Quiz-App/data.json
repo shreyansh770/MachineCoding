@@ -2,22 +2,16 @@
     {
         "question" :"Question - What is the captial of Indian?",
         "options" : ["Delhi","Dubai" ,"Chennai" ,"NZ"],
-        "correctanswer":0
+        "correctanswer":"Delhi"
     },
     {
-        "question" :"Question - What is the captial of Indian?",
-        "options" : ["Delhi","Dubai" ,"Chennai" ,"NZ"]
+        "question" :"Question - What is the captial of UAE?",
+        "options" : ["Delhi","Dubai" ,"Chennai" ,"NZ"],
+        "correctanswer":"Dubai"
     },
     {
-        "question" :"Question - What is the captial of Indian?",
-        "options" : ["Delhi","Dubai" ,"Chennai" ,"NZ"]
-    },
-    {
-        "question" :"Question - What is the captial of Indian?",
-        "options" : ["Delhi","Dubai" ,"Chennai" ,"NZ"]
-    },
-    {
-        "question" :"Question - What is the captial of Indian?",
-        "options" : ["Delhi","Dubai" ,"Chennai" ,"NZ"]
+        "question" :"Question - Nearest country to Oz?",
+        "options" : ["Delhi","Dubai" ,"Chennai" ,"NZ"],
+        "correctanswer":"NZ"
     }
 ]
